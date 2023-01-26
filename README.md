@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm diego ochoa</h1>
+<h1 align="center">hi 👋, i'm diego ochoa</h1>
 <h3 align="center">i am just existing and trying to learn</h3>
 
 - 🌱 I’m currently learning
 
-- 🤝 I’m looking for help **(please help)**
+- 🤝 I’m looking for help **(send help)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
